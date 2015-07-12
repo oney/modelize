@@ -1,0 +1,27 @@
+{
+  "name": "modelize",
+  "version": "0.1.0",
+  "description": "modelize",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:oney/modelize.git"
+  },
+  "keywords": [
+    "model"
+  ],
+  "author": "Howard Yang <appdevoney@gmail.com> (http://devone.biz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oney/modelize/issues"
+  },
+  "homepage": "https://github.com/oney/modelize",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
